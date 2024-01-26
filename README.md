@@ -1,2 +1,2 @@
-# DictionaryBot Бот словарик на Python
+# DictionaryBot
 Бот словарик на Python
